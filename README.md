@@ -9,7 +9,7 @@ The script will run a platformer "engine" I made in matlab, check out the MyGame
 
 Clone the repo, open matlab and make sure every folder of this repo is in your path. You then just have to run the CLICKTOPLAY.m script and you are set to go !
 
-![map example](https://github.com/dskart/matlab_platformer/blob/master/images/map_platformer_example.png)
+![map example](https://github.com/dskart/Matlab_platformer/blob/master/images/matlab_platformer_example.png)
 
 ### Prerequisites
 
